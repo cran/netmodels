@@ -13,7 +13,7 @@ Provides a set of functions designed to help in the study of scale free and smal
 Package: \tab netmodels\cr
 Type: \tab Package\cr
 Version: \tab 0.1\cr
-Date: \tab 2008-03-19\cr
+Date: \tab 2008-07-03\cr
 License: \tab  Artistic License 2.0\cr
 }
 This package was designed to help in the testing process of scale free and small world networks.
